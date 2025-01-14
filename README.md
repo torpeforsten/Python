@@ -1,2 +1,2 @@
 # Python
-Koulussa tehdyt python teht'v't
+Koulussa tehdyt python tehtavat
